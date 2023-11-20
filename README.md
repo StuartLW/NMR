@@ -1,5 +1,5 @@
 # NMR
-Interactive webpage to practice NMR multiplet questions
+Interactive webpage to practice NMR multiplet questions, develoepd at the University of Leeds, UK
 # Webpages
 The main NMR multiplet quizes are here: https://stuartlw.github.io/NMR/NMR.htm
 A second simple simulator ( currently 400MHz only) is here: https://stuartlw.github.io/NMR/NMR2.htm
